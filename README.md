@@ -20,8 +20,9 @@ project-root/
 ├── src/
 │   └── index.php
 └── config/
-    └── php/
-        └── conf.d/
+│   └── php/
+│      └── conf.d/
+│          └── xdebug.ini
 ```
 
 2. Arquivo docker-compose.yml
