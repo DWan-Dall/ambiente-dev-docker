@@ -47,7 +47,10 @@ Crie o arquivo nginx/default.conf com as configurações conforme file do projet
 7. Arquivo index.php para Teste
 Crie um arquivo src/index.php com o trecho php básico (phpinfo) conforme estrutura do projeto.
 
-8. Construir e Iniciar os Contêineres
+8. Configurações do Xdebug
+Crie o arquivo xdebug.ini conforme projeto em config/php/config.d/xdebug.ini.
+
+10. Construir e Iniciar os Contêineres
 No terminal, navegue até o diretório do projeto e execute os seguintes comandos:
 
 ```
